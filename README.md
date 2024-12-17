@@ -1,5 +1,8 @@
 # Long Context RAG
 
+Long Context를 RAG를 이용해 처리한 RAPTOR에 대한 자료입니다. (정리 예정)
+
+
 ![image](https://github.com/user-attachments/assets/8f193c82-ac96-42d2-b207-50ba366b1885)
 
 Long Context RAG를 통해 긴 문서에 대해 더 나은 성능의 RAG를 제공할 수 있습니다.
