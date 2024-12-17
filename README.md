@@ -4,7 +4,7 @@ Long Context RAG를 통해 긴 문서에 대해 더 나은 성능의 RAG를 제�
 
 [Building long context RAG with RAPTOR from scratch](https://www.youtube.com/watch?v=jbGchdTL7d0)
 
-[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb)
+[Notebook - RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb)
 
-[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)
+[Paper - RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)
 
