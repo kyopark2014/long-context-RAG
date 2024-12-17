@@ -1,6 +1,6 @@
 # Long Context RAG
 
-Long Context를 RAG를 이용해 처리한 RAPTOR에 대한 자료입니다. (정리 예정)
+Long Context를 RAG를 이용해 처리한 RAPTOR를 기반으로 정리 예정입니다. 
 
 
 ![image](https://github.com/user-attachments/assets/8f193c82-ac96-42d2-b207-50ba366b1885)
